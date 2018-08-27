@@ -28,3 +28,6 @@ Latihan 5
 
 ![alt text](https://github.com/akuian/Jobsheet3/blob/master/Latihan5.JPG)
 
+Tugas Praktikum
+
+![alt text](https://github.com/akuian/Jobsheet3/blob/master/TugasPraktikum.JPG)
