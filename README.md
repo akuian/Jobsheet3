@@ -6,7 +6,7 @@ Latihan 1
 
 Jawaban:
 
-
+Fungsi dari this.getClass.getName(); adalah get Class menampilkan nama package dan nama class
 
 Latihan 2
 
